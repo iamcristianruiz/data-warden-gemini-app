@@ -1,0 +1,5 @@
+{
+  "name": "GCP Data Drift Warden",
+  "description": "A comprehensive dashboard for managing schema drift in Google Cloud data pipelines using BigQuery, Dataform, and Gemini. Features real-time simulation, drift resolution assistance, and architectural documentation.",
+  "requestFramePermissions": []
+}
