@@ -1,4 +1,4 @@
-# Data Warden: AI-Enhanced Data Ingestion
+# Gemini-Powered Data Warden
 
 > **⚠️ DISCLAIMER: For Demonstration Purposes Only**
 >
