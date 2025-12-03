@@ -35,7 +35,7 @@ This repository contains two main components that work together to demonstrate t
 ### 1. Run the Backend Simulation
 To understand the core logic and see the AI in action:
 
-1.  Open **`shaed_notebook_v2.ipynb`** in [Google Colab](https://colab.research.google.com/) or a local Jupyter environment.
+1.  Open **`shaed_notebook_v2.ipynb`** in [BigQuery Notebooks](https://docs.cloud.google.com/bigquery/docs/notebooks-introduction) or a [Google Colab](https://colab.sandbox.google.com/).
 2.  Update the **Global Configuration** cell at the top with your Google Cloud details:
     ```python
     PROJECT_ID = "your-project-id"
